@@ -1,5 +1,5 @@
 # Quizizz-Cheat-Bookmarklet
-This is a quizizz bookmarklet that will make the answer highlighted and the incorrect answers dim. If you need to type the answer, a alert will show up telling you the answers, example (Red or red). This bookmarklet fetches code from gbaranski's "quizizz-cheat." Full credit goes to gbaranski, link here: https://github.com/gbaranski/quizizz-cheat
+This is a quizizz bookmarklet hack that will make the answer highlighted and the incorrect answers dim. If you need to type the answer, a alert will show up telling you the answers, example (Red or red). This bookmarklet fetches code from gbaranski's "quizizz-cheat." Full credit goes to gbaranski, link here: https://github.com/gbaranski/quizizz-cheat
 
 How to create a bookmarklet:
 Step One: Open a new tab and press ctrl+shift+o
